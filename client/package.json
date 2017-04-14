@@ -7,9 +7,7 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "semantic-ui-css": "^2.2.10",
-    "semantic-ui-react": "^0.67.2"
-  },
-  "devDependencies": {
+    "semantic-ui-react": "^0.67.2",
     "react-scripts": "0.9.5"
   },
   "scripts": {
