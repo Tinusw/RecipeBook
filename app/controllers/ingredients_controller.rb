@@ -1,4 +1,2 @@
-class IngredientsController < ApplicationController
-  def index
-  end
+class IngredientsController < ApiController
 end
